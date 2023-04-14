@@ -15,7 +15,7 @@ namespace Methods
 
         public void Ekle2(string Name, string Description, int PriceTag, int stock)
          {
-            Console.WriteLine(Name +"::" + "sepete başarıyla eklendi");
+            Console.WriteLine(Name +"::" +Description+ PriceTag+stock+ "sepete başarıyla eklendi");
         }
     }
 }

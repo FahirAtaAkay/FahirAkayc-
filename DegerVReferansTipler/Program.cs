@@ -24,7 +24,7 @@ namespace DegerVReferansTipler
             //davrandı iste birinin değer birinin referans veri tipi olmasından kaynaklı
             //int double bool flood decimal bunlar birer değer tip
             // array calss interface ise referans tip stack n heap ust taraf stack 
-
+                 
 
 
 

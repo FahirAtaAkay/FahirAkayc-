@@ -45,7 +45,7 @@ namespace Methods
             sepetManager.Ekle2("tablet bilgisayar", "Lenovo thinkpad cc", 7800,135);
             sepetManager.Ekle2("tablet bilgisayar", "Lenovo thinkpad cc", 7800,45);
 
-
+            
 
 
 
